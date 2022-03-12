@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.client.Client", "_Entitate__id_entitate": "1", "_Client__nume": "nume1", "_Client__prenume": "prenume1", "_Client__cnp": 123456789012, "_Client__data_nasterii": "1999.11.11", "_Client__data_inregistrarii": "2020.10.10"}}

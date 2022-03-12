@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.tranzactie.Tranzactie", "_Entitate__id_entitate": "1", "_Tranzactie__id_masina": "1", "_Tranzactie__id_card_client": "1", "_Tranzactie__suma_piese": 500, "_Tranzactie__suma_manopera": 200, "_Tranzactie__data": "2020.10.10", "_Tranzactie__ora": "15", "suma_manopera_noua": 180, "id_client": "1"}}
